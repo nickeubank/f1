@@ -1,0 +1,31 @@
+type,name,salary,score,contract
+driver,Verstappen,30.0,146,
+driver,Norris,28.6,145,
+driver,Leclerc,27.2,144,
+driver,Hamilton,25.8,140,
+driver,Piastri,24.4,131,
+driver,Russell,23.0,129,
+driver,Lawson,21.6,122,
+driver,Antonelli,20.2,120,
+driver,Alonso,18.8,111,
+driver,Tsunoda,17.4,101,
+driver,Gasly,16.0,99,
+driver,Sainz r,£14.6,96,
+driver,Ocon,13.2,91,
+driver,Albon,11.8,87,
+driver,Bearman,10.4,84,
+driver,Hadjar,9.0,82,
+driver,Hulkenberg,7.6,79,
+driver,Stroll,6.2,78,
+driver,Doohan,4.8,77,
+driver,Bortoleto,3.4,75,
+team,McLaren,30.0,30
+team,Ferrari,27.2,20
+team,Red Bull,24.4,20
+team,Mercedes,21.6,20
+team,Aston Martin,18.8,20
+team,Haas,16.0,20,
+team,Williams,13.2,10,
+team,Racing Bulls,10.4,10,
+team,Alpine,7.6,10,
+team,Kick Sauber,4.8,10,
